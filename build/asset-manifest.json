@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobi-test/static/css/main.18fea23f.chunk.css",
+    "main.js": "/mobi-test/static/js/main.4d1d989f.chunk.js",
+    "main.js.map": "/mobi-test/static/js/main.4d1d989f.chunk.js.map",
+    "runtime~main.js": "/mobi-test/static/js/runtime~main.a2db38cf.js",
+    "runtime~main.js.map": "/mobi-test/static/js/runtime~main.a2db38cf.js.map",
+    "static/js/2.ef37d352.chunk.js": "/mobi-test/static/js/2.ef37d352.chunk.js",
+    "static/js/2.ef37d352.chunk.js.map": "/mobi-test/static/js/2.ef37d352.chunk.js.map",
+    "index.html": "/mobi-test/index.html",
+    "precache-manifest.23456a9fd81adda20300b61ca12858d6.js": "/mobi-test/precache-manifest.23456a9fd81adda20300b61ca12858d6.js",
+    "service-worker.js": "/mobi-test/service-worker.js",
+    "static/css/main.18fea23f.chunk.css.map": "/mobi-test/static/css/main.18fea23f.chunk.css.map"
+  }
+}
